@@ -3,7 +3,7 @@
 Welcome to my personal portfolio! 🚀 This website showcases my work, skills, and contact details.  
 
 ## 🔗 Live Demo  
-👉 [View Portfolio](https://lp0208.github.io/Portfolio/)  
+👉 (https://lp0208.github.io/Portfolio/)  
 
 ## 📌 About  
 This portfolio is a simple and clean website built to present my projects and skills. It includes:  
