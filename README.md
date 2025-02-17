@@ -1,4 +1,4 @@
-## 🔗 Live Project URL  https://lp0208.github.io/Portfolio/  
+Project URL  https://lp0208.github.io/Portfolio/  
 
 # 🌟 Personal Portfolio
 
