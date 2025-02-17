@@ -1,9 +1,10 @@
+## 🔗 Live Project URL 
+👉 https://lp0208.github.io/Portfolio/  
+
 # 🌟 Personal Portfolio
 
 Welcome to my personal portfolio! 🚀 This website showcases my work, skills, and contact details.  
 
-## 🔗 Live Project URL 
-👉 https://lp0208.github.io/Portfolio/  
 
 ## 📌 About  
 This portfolio is a simple and clean website built to present my projects and skills. It includes:  
